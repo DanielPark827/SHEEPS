@@ -1,0 +1,6 @@
+welcome_banner.svg|https://sheeps.kr
+profile_banner.svg|https://www.notion.so/noteasy/0882db1ddd6440a1892e6ff39584dc18
+teambuilding_banner.svg|https://www.notion.so/noteasy/44cad6f9b397439fb201d87c8d2e921b
+community_banner.svg|https://www.notion.so/noteasy/8090970a25eb4a3195346ae3725d19f8
+contents_DIY.svg|https://www.notion.so/noteasy/DIY-a192a257dfb84b78b6c4e2faa03d20b4
+contents_story.svg|https://www.notion.so/noteasy/41bd8ed81ee64482933ac4ff46a4f8c2
