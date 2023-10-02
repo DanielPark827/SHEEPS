@@ -7,9 +7,7 @@
 + 예비 창업자가 보다 쉽게 팀을 꾸릴 수 있도록 도와줍니다.
 + 리쿠르트 기능으로 내가 원하는 팀원을 쉽게 찾고, 커뮤니티 기능을 통해 창업에 관한 다양한 정보를 공유하고 함께 발전을 도모할 수 있는 공간을 만들었습니다.
 
-A new Flutter application.
-
-## Getting Started
+#🔭 My Role
 
 This project is a starting point for a Flutter application.
 
