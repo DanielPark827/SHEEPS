@@ -1,4 +1,4 @@
-# 쉽게하는 스타트업, 쉽스.
+# 쉽게하는 스타트업, [ 쉽스 ](https://www.sheeps.kr/) .
 
 <img src="https://github.com/DanielPark827/SHEEPS/assets/59303671/e0f061ec-b902-49bb-8cd0-ac872240a53e.png" width="200" height="400"/>
 <img src="https://github.com/DanielPark827/SHEEPS/assets/59303671/65901802-e9eb-484d-9067-677033025e0f.png" width="200" height="400"/>
