@@ -7,15 +7,13 @@
 + 예비 창업자가 보다 쉽게 팀을 꾸릴 수 있도록 도와줍니다.
 + 리쿠르트 기능으로 내가 원하는 팀원을 쉽게 찾고, 커뮤니티 기능을 통해 창업에 관한 다양한 정보를 공유하고 함께 발전을 도모할 수 있는 공간을 만들었습니다.
 
+### 💻 Technology
++ Flutter <a href="https://box-world.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white"/></a>
+
 ### 🔭 My Role
++ Front-end Developer
++ User Profile, Recruit, Chat, Community 기능 구현
 
-This project is a starting point for a Flutter application.
+### 🌱 Advance
++ 개발 초기 Flutter라는 언어를 처음 사용했기에, 앱이 고도화될 수록 스파게티가 되어가는 현상이 생겼습니다. 이를 해결하고자 코드 전체를 BLOC 패턴으로 재구현하여 서비스 환경 개선에 기여하였습니다.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
